@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "com.meta.xr.sdk.haptics": "209.0.0",
+    "com.meta.xr.sdk.interaction": "209.0.0",
+    "com.meta.xr.sdk.interaction.ovr": "209.0.0",
+    "com.meta.xr.sdk.platform": "209.0.0",
     "com.unity.ai.navigation": "2.0.16",
     "com.unity.collab-proxy": "2.14.0",
     "com.unity.ide.rider": "3.1.0",
@@ -11,6 +15,8 @@
     "com.unity.timeline": "1.8.13",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.9.12",
+    "com.unity.xr.interaction.toolkit": "3.3.2",
+    "com.unity.xr.meta-openxr": "2.7.0",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.adaptiveperformance": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
