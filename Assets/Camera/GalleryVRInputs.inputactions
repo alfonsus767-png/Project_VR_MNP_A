@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "name": "GalleryVRInputs",
+    "maps": [
+        {
+            "name": "Gallery",
+            "id": "e78109d4-16ab-4be6-b27b-3d3c7f813316",
+            "actions": [
+                {
+                    "name": "ToggleGalleryRightA",
+                    "type": "Button",
+                    "id": "a02d6607-a4b9-4a74-b112-5d9b6e131134",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7fe99df2-aa43-45a4-9cee-e6a866c24ff9",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToggleGalleryRightA",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
